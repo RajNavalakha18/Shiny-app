@@ -1,0 +1,884 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.679,1990
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.726,1991
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.877,1992
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.081,1993
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.255,1994
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.701,1995
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.561,1996
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.822,1997
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.046,1998
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.717,1999
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.285,2000
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.934,2001
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.219,2002
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.843,2003
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.121,2004
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.565,2005
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.191,2006
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.021,2007
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.372,2008
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.98,2009
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.888,2010
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.757,2011
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.079,2012
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.381,2013
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.073,2014
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.628,2015
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.255,2016
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.932,2017
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.184,2018
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.941,2019
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.979,2020
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.281,2021
+ESP,Spain,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.349,2022
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.927,1990
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.160,1991
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.342,1992
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.089,1993
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.367,1994
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.682,1995
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.338,1996
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.616,1997
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.803,1998
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.352,1999
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.611,2000
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.611,2001
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.003,2002
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.964,2003
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.217,2004
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.432,2005
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.096,2006
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.120,2007
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.307,2008
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.395,2009
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.075,2010
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.073,2011
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.947,2012
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.406,2013
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.470,2014
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.832,2015
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.587,2016
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.873,2017
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.740,2018
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.318,2019
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.510,2020
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.849,2021
+ESP,Spain,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.849,2022
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.978,2014
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.988,2015
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.793,2016
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,14.085,2017
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.376,2018
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.246,2019
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,12.887,2020
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.359,2021
+ESP,Spain,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,12.263,2022
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.974,1990
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.013,1991
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.309,1992
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.311,1993
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.722,1994
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.013,1995
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.565,1996
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.864,1997
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.552,1998
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.477,1999
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.715,2000
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.125,2001
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.768,2002
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.333,2003
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.712,2004
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.689,2005
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.486,2006
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.586,2007
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.054,2008
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,10.581,2009
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.908,2010
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,9.278,2011
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.343,2012
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.523,2013
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.597,2014
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.661,2015
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.277,2016
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.147,2017
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,8.343,2018
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.743,2019
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.383,2020
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.965,2021
+ESP,Spain,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,7.903,2022
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.357,1990
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.615,1991
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.798,1992
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.257,1993
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.573,1994
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.752,1995
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.923,1996
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.861,1997
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.770,1998
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.728,1999
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.865,2000
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.923,2001
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.970,2002
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.891,2003
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.934,2004
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.982,2005
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.931,2006
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.912,2007
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.874,2008
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.959,2009
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.403,2010
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.751,2011
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.990,2012
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.164,2013
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.285,2014
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.404,2015
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.439,2016
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.480,2017
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.519,2018
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.501,2019
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.470,2020
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.809,2021
+ESP,Spain,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.809,2022
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.585,1990
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.907,1991
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.143,1992
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.650,1993
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.956,1994
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.220,1995
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.427,1996
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.237,1997
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.188,1998
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.121,1999
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.253,2000
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.277,2001
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.397,2002
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.313,2003
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.422,2004
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.454,2005
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.412,2006
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.412,2007
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.366,2008
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.438,2009
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.814,2010
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.134,2011
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.342,2012
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.518,2013
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.633,2014
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.738,2015
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.814,2016
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.909,2017
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.989,2018
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.022,2019
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.031,2020
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.439,2021
+ESP,Spain,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.439,2022
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.139,1990
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.335,1991
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.469,1992
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.883,1993
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.209,1994
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.306,1995
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.443,1996
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.503,1997
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.372,1998
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.355,1999
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.496,2000
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.586,2001
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.564,2002
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.490,2003
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.471,2004
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.534,2005
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.476,2006
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.437,2007
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.408,2008
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.505,2009
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.011,2010
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.385,2011
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.651,2012
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.824,2013
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.950,2014
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.083,2015
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.077,2016
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.064,2017
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.063,2018
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.996,2019
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.928,2020
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.202,2021
+ESP,Spain,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.202,2022
+ESP,Spain,gdi_group,GDI Group,GDI,Gender Development Index,1,2022
+ESP,Spain,gii_rank,GII Rank,GII,Gender Inequality Index,15,2022
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,15457.007,1990
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,15257.381,1991
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,16218.888,1992
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,16289.807,1993
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,16801.517,1994
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,17812.609,1995
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,18292.072,1996
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,19132.436,1997
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,19931.387,1998
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,20945.214,1999
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,22367.284,2000
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,22500.353,2001
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,23611.147,2002
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,24290.488,2003
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25022.069,2004
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25640.652,2005
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26783.967,2006
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27412.565,2007
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27441.296,2008
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27481.723,2009
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27968.307,2010
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27922.233,2011
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27406.838,2012
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27443.765,2013
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27847.076,2014
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29382.448,2015
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31083.612,2016
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31791.366,2017
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32200.374,2018
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32532.570,2019
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29561.426,2020
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31831.534,2021
+ESP,Spain,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32834.647,2022
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,39587.388,1990
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,41047.946,1991
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,40174.089,1992
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,39525.490,1993
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,39090.078,1994
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,40401.999,1995
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,41028.366,1996
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,42134.731,1997
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,43708.675,1998
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,45301.532,1999
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47165.193,2000
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,48804.909,2001
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,48731.387,2002
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49046.122,2003
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49170.338,2004
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49578.832,2005
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49796.697,2006
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49951.425,2007
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49097.250,2008
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,46128.153,2009
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,45781.993,2010
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44757.426,2011
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,43788.977,2012
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,43090.635,2013
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44128.793,2014
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,45672.944,2015
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,46378.611,2016
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47636.461,2017
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,48790.343,2018
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,49509.068,2019
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,42853.108,2020
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,44689.409,2021
+ESP,Spain,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47542.895,2022
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,27272.883,1990
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,27882.358,1991
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,27946.017,1992
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,27665.876,1993
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,27714.995,1994
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,28873.978,1995
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,29425.613,1996
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,30396.646,1997
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,31576.024,1998
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,32874.308,1999
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,34513.805,2000
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35385.750,2001
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35928.429,2002
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36449.218,2003
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36903.100,2004
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,37439.662,2005
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38140.622,2006
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38549.404,2007
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38152.672,2008
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36702.644,2009
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36770.264,2010
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36232.958,2011
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35483.350,2012
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35145.956,2013
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,35852.332,2014
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,37385.841,2015
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38592.801,2016
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39565.057,2017
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40334.818,2018
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40854.139,2019
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,36075.605,2020
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38132.739,2021
+ESP,Spain,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40043.338,2022
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.736,1990
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.743,1991
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.753,1992
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.762,1993
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.772,1994
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.781,1995
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.788,1996
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.792,1997
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.797,1998
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.801,1999
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.810,2000
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.815,2001
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.822,2002
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.824,2003
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.832,2004
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.837,2005
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.843,2006
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.845,2007
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.847,2008
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.850,2009
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.858,2010
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.863,2011
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.865,2012
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.870,2013
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.874,2014
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.879,2015
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.886,2016
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.889,2017
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.892,2018
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.897,2019
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.889,2020
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.897,2021
+ESP,Spain,hdi_f,HDI female,GDI,Gender Development Index,0.902,2022
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.778,1990
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.785,1991
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.790,1992
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.797,1993
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.805,1994
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.810,1995
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.815,1996
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.823,1997
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.826,1998
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.830,1999
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.838,2000
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.845,2001
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.847,2002
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.850,2003
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.855,2004
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.859,2005
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.863,2006
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.865,2007
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.866,2008
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.867,2009
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.875,2010
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.880,2011
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.882,2012
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.887,2013
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.892,2014
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.896,2015
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.899,2016
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.901,2017
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.904,2018
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.908,2019
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.897,2020
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.905,2021
+ESP,Spain,hdi_m,HDI male,GDI,Gender Development Index,0.913,2022
+ESP,Spain,hdi_rank,HDI Rank,HDI,Human Development Index,27,2022
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,19.141,2014
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,19.326,2015
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,18.715,2016
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,17.079,2017
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,16.870,2018
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,16.467,2019
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,15.732,2020
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,16.091,2021
+ESP,Spain,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.963,2022
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.889,2010
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,20.896,2011
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,20.896,2012
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,20.896,2013
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,22.672,2014
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,22.672,2015
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,22.672,2016
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,22.189,2017
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,20.298,2018
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,20.333,2019
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,20.060,2020
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,21.103,2021
+ESP,Spain,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.182,2022
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.429,2010
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.357,2011
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.253,2012
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.039,2013
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.122,2014
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.967,2015
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.991,2016
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.986,2017
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.962,2018
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.939,2019
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.867,2020
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.883,2021
+ESP,Spain,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.644,2022
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.002,1990
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.13,1991
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.59,1992
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.73,1993
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.117,1994
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.203,1995
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.342,1996
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.853,1997
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.943,1998
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.948,1999
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.417,2000
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.744,2001
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.824,2002
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.755,2003
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.336,2004
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.328,2005
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.972,2006
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.98,2007
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.29,2008
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.641,2009
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.021,2010
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.197,2011
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.211,2012
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.72,2013
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.858,2014
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.646,2015
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.041,2016
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.029,2017
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.144,2018
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.532,2019
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.289,2020
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.01,2021
+ESP,Spain,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.912,2022
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.557,1990
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.751,1991
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.264,1992
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.339,1993
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.721,1994
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.846,1995
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.002,1996
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.353,1997
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.423,1998
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.433,1999
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.842,2000
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.166,2001
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.233,2002
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.07,2003
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.657,2004
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.616,2005
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.211,2006
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.169,2007
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.341,2008
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.642,2009
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.983,2010
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.083,2011
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.05,2012
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.48,2013
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.578,2014
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.357,2015
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.769,2016
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.666,2017
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.798,2018
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.165,2019
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.014,2020
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.773,2021
+ESP,Spain,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.549,2022
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.43,1990
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.506,1991
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.912,1992
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.113,1993
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.497,1994
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.558,1995
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.687,1996
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.329,1997
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.447,1998
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.46,1999
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.965,2000
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.29,2001
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.392,2002
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.424,2003
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.982,2004
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.024,2005
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.691,2006
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.76,2007
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.189,2008
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.582,2009
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.991,2010
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.24,2011
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.311,2012
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.875,2013
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.05,2014
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.873,2015
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.239,2016
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.318,2017
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.418,2018
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.817,2019
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.554,2020
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.209,2021
+ESP,Spain,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.2,2022
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,32.63,1990
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,32.86,1991
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,34.59,1992
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,35.12,1993
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,36.34,1994
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,36.8,1995
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.32,1996
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,38.08,1997
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,38.42,1998
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,39.12,1999
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,40.7,2000
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,39.56,2001
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,42.12,2002
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,43.62,2003
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,45.01,2004
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,46.49,2005
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.91,2006
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.96,2007
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.35,2008
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.45,2009
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.16,2010
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.82,2011
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.44,2012
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.39,2013
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.11,2014
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.12,2015
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.04,2016
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.63,2017
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.42,2018
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.69,2019
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.62,2020
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.1,2021
+ESP,Spain,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.19,2022
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.06,1990
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.03,1991
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.15,1992
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.62,1993
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.09,1994
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.2,1995
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.26,1996
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.4,1997
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.62,1998
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.93,1999
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.58,2000
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.34,2001
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.03,2002
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.79,2003
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.19,2004
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.11,2005
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.36,2006
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.53,2007
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.69,2008
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.82,2009
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.34,2010
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.82,2011
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.32,2012
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.62,2013
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.04,2014
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.82,2015
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.27,2016
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.89,2017
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.72,2018
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.43,2019
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.08,2020
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.7,2021
+ESP,Spain,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,62.86,2022
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,15.385,2014
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,15.411,2015
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,15.213,2016
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.397,2017
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.682,2018
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.606,2019
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.199,2020
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.717,2021
+ESP,Spain,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,12.623,2022
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.158,1990
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.898,1991
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.494,1992
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.031,1993
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.629,1994
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.94,1995
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.229,1996
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.481,1997
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.168,1998
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.667,1999
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.079,2000
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.040,2001
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.177,2002
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.894,2003
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.614,2004
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.007,2005
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,25.984,2006
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.204,2007
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.240,2008
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.905,2009
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,16.596,2010
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.968,2011
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.528,2012
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.057,2013
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.282,2014
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.832,2015
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.949,2016
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.136,2017
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.100,2018
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.972,2019
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.449,2020
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.419,2021
+ESP,Spain,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.279,2022
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.822,1990
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.041,1991
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.815,1992
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.977,1993
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.248,1994
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.427,1995
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.436,1996
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.661,1997
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.285,1998
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.253,1999
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.038,2000
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.010,2001
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.865,2002
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.945,2003
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.553,2004
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.489,2005
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.304,2006
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.162,2007
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.002,2008
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.100,2009
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.919,2010
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.071,2011
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.059,2012
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.118,2013
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.006,2014
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.881,2015
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.830,2016
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.971,2017
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.054,2018
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.168,2019
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.441,2020
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.441,2021
+ESP,Spain,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,3.441,2022
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.879,1990
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.070,1991
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.268,1992
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.465,1993
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.663,1994
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.860,1995
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.057,1996
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.255,1997
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.452,1998
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.650,1999
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.847,2000
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.044,2001
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.242,2002
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.439,2003
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.637,2004
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.923,2005
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.030,2006
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.122,2007
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.187,2008
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.252,2009
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.363,2010
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.484,2011
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.511,2012
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.615,2013
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.720,2014
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.912,2015
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.011,2016
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.077,2017
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.142,2018
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.374,2019
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.605,2020
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.605,2021
+ESP,Spain,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.605,2022
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.425,1990
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.626,1991
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.834,1992
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.043,1993
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.251,1994
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.459,1995
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.668,1996
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.876,1997
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.084,1998
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.292,1999
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.501,2000
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.709,2001
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.917,2002
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.126,2003
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.334,2004
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.626,2005
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.750,2006
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.842,2007
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.926,2008
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.016,2009
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.127,2010
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.263,2011
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.314,2012
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.434,2013
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.553,2014
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.770,2015
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.897,2016
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.973,2017
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.049,2018
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.288,2019
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.528,2020
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.528,2021
+ESP,Spain,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.528,2022
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.371,1990
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.551,1991
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.737,1992
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.922,1993
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.107,1994
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.292,1995
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.477,1996
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.662,1997
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.847,1998
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.032,1999
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.218,2000
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.403,2001
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.588,2002
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.773,2003
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.958,2004
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.236,2005
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.325,2006
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.415,2007
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.461,2008
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.498,2009
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.611,2010
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.717,2011
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.719,2012
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.808,2013
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.897,2014
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.063,2015
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.133,2016
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.188,2017
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.242,2018
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.465,2019
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.688,2020
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.688,2021
+ESP,Spain,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.688,2022
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1990
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1991
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1992
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1993
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1994
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1995
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1996
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1997
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.868,1998
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.017,1999
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.944,2000
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.601,2001
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.601,2002
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.601,2003
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.542,2004
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.542,2005
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.542,2006
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.870,2007
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.605,2008
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.095,2009
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.095,2010
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.910,2011
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.227,2012
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.227,2013
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.013,2014
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,37.987,2015
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,38.636,2016
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,38.636,2017
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,38.636,2018
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,41.857,2019
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,41.857,2020
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,42.276,2021
+ESP,Spain,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,41.368,2022
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1990
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1991
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1992
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1993
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1994
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1995
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1996
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1997
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.132,1998
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.983,1999
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.056,2000
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.399,2001
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.399,2002
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.399,2003
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.458,2004
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.458,2005
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.458,2006
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.130,2007
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.395,2008
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.905,2009
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.905,2010
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.090,2011
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.773,2012
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.773,2013
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.987,2014
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,62.013,2015
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,61.364,2016
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,61.364,2017
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,61.364,2018
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,58.143,2019
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,58.143,2020
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,57.724,2021
+ESP,Spain,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,58.632,2022
+ESP,Spain,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,23,2022
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,28.590,1990
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,30.421,1991
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,32.369,1992
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,34.316,1993
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.264,1994
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,38.212,1995
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.160,1996
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,42.107,1997
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,44.055,1998
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,46.003,1999
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,47.950,2000
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,49.898,2001
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,51.846,2002
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,53.794,2003
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,55.741,2004
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,59.031,2005
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,60.383,2006
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.347,2007
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,62.346,2008
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.293,2009
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,64.205,2010
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,65.645,2011
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,66.790,2012
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,68.841,2013
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,70.893,2014
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,72.167,2015
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,73.310,2016
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,74.340,2017
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,75.370,2018
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.952,2019
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.535,2020
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.535,2021
+ESP,Spain,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.535,2022
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,36.445,1990
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,38.259,1991
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.162,1992
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,42.066,1993
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,43.969,1994
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,45.873,1995
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,47.777,1996
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,49.680,1997
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,51.584,1998
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,53.487,1999
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.391,2000
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,57.295,2001
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,59.198,2002
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.102,2003
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,63.006,2004
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,66.224,2005
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,67.504,2006
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,68.297,2007
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,69.054,2008
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,69.785,2009
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,70.741,2010
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,72.135,2011
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.153,2012
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.933,2013
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.713,2014
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.633,2015
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,78.450,2016
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.344,2017
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,80.238,2018
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.700,2019
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.163,2020
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.163,2021
+ESP,Spain,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.163,2022

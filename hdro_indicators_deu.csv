@@ -1,0 +1,896 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,20.707,1990
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.012,1991
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.719,1992
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.664,1993
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.096,1994
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.398,1995
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.554,1996
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.505,1997
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.968,1998
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.249,1999
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.698,2000
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,13.649,2001
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.894,2002
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.995,2003
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.329,2004
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.954,2005
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.721,2006
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.674,2007
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,10.564,2008
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.948,2009
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.687,2010
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.996,2011
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.546,2012
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.075,2013
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.114,2014
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.318,2015
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.511,2016
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.618,2017
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.004,2018
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.524,2019
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.417,2020
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.465,2021
+DEU,Germany,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.186,2022
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.289,1990
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.742,1991
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.087,1992
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.907,1993
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.661,1994
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.586,1995
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.804,1996
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.438,1997
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.327,1998
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.979,1999
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.023,2000
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.228,2001
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.036,2002
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.062,2003
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.898,2004
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.657,2005
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.810,2006
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.473,2007
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.501,2008
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.701,2009
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.220,2010
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.919,2011
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.968,2012
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.208,2013
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.709,2014
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.724,2015
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.738,2016
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.513,2017
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.105,2018
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.509,2019
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.767,2020
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.138,2021
+DEU,Germany,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.138,2022
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,6.875,2010
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,6.850,2011
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,6.872,2012
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.073,2013
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.196,2014
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.103,2015
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.349,2016
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.229,2017
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.532,2018
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.320,2019
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.611,2020
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.815,2021
+DEU,Germany,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.146,2022
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.237,1990
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.647,1991
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.865,1992
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.667,1993
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.783,1994
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.802,1995
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.244,1996
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.018,1997
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.610,1998
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.742,1999
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,16.517,2000
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.719,2001
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.967,2002
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.673,2003
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.847,2004
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.393,2005
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.435,2006
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.601,2007
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.443,2008
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.595,2009
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.747,2010
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.759,2011
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.408,2012
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.606,2013
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.331,2014
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.921,2015
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.240,2016
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.195,2017
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.425,2018
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.408,2019
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,11.814,2020
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.447,2021
+DEU,Germany,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.316,2022
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.377,1990
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.565,1991
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.755,1992
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.478,1993
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.645,1994
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.753,1995
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.864,1996
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.948,1997
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.020,1998
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.092,1999
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.163,2000
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.235,2001
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.307,2002
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.378,2003
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.450,2004
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.522,2005
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.593,2006
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.665,2007
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.737,2008
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.808,2009
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.880,2010
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.952,2011
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.023,2012
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.095,2013
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.118,2014
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.112,2015
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.875,2016
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.990,2017
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.042,2018
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.224,2019
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.226,2020
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.343,2021
+DEU,Germany,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.343,2022
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.217,1990
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.787,1991
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.381,1992
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.000,1993
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.190,1994
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.333,1995
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.498,1996
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.645,1997
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.725,1998
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.805,1999
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.886,2000
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.966,2001
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.046,2002
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.127,2003
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.207,2004
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.287,2005
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.368,2006
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.448,2007
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.528,2008
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.609,2009
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.689,2010
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.769,2011
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.850,2012
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.930,2013
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.965,2014
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.019,2015
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.914,2016
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.996,2017
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.031,2018
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.179,2019
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.224,2020
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.370,2021
+DEU,Germany,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.370,2022
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.536,1990
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.343,1991
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.110,1992
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.931,1993
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.078,1994
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.153,1995
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.214,1996
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.239,1997
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.303,1998
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.366,1999
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.430,2000
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.493,2001
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.557,2002
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.620,2003
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.684,2004
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.747,2005
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.811,2006
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.874,2007
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.938,2008
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.001,2009
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.065,2010
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.128,2011
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.192,2012
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.255,2013
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.266,2014
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.202,2015
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.840,2016
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.986,2017
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.053,2018
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.268,2019
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.230,2020
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.320,2021
+DEU,Germany,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.320,2022
+DEU,Germany,gdi_group,GDI Group,GDI,Gender Development Index,2,2022
+DEU,Germany,gii_rank,GII Rank,GII,Gender Inequality Index,19,2022
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,24568.855,1990
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26655.047,1991
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27038.996,1992
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26515.828,1993
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27079.852,1994
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27534.621,1995
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,27887.343,1996
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,28392.434,1997
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,28986.196,1998
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29732.068,1999
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30767.389,2000
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31605.557,2001
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31353.015,2002
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31340.255,2003
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32221.154,2004
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,28490.556,2005
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30192.853,2006
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31534.399,2007
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31175.124,2008
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30420.554,2009
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31916.114,2010
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34410.775,2011
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34045.222,2012
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34733.323,2013
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35478.587,2014
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35839.287,2015
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37226.017,2016
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,38462.190,2017
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,39152.272,2018
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,40205.473,2019
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37766.053,2020
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,40015.668,2021
+DEU,Germany,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,41022.153,2022
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51015.127,1990
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51653.910,1991
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51997.266,1992
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51063.984,1993
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51504.841,1994
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51805.282,1995
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,51948.831,1996
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,52566.452,1997
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53254.566,1998
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,53884.173,1999
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55274.180,2000
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55588.949,2001
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55205.378,2002
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,54583.582,2003
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56155.948,2004
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,60985.274,2005
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,63549.034,2006
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,64845.582,2007
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,65815.296,2008
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,62407.136,2009
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,64632.600,2010
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,68266.345,2011
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,68674.058,2012
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,68009.823,2013
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,68744.850,2014
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,69295.482,2015
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,69569.109,2016
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,70647.080,2017
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,71736.256,2018
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,71579.987,2019
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,69399.946,2020
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,70499.965,2021
+DEU,Germany,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,70040.150,2022
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,37292.772,1990
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38706.813,1991
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39093.611,1992
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38392.598,1993
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38914.995,1994
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39309.740,1995
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39572.153,1996
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40139.763,1997
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,40784.235,1998
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,41476.391,1999
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42685.481,2000
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43269.579,2001
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42954.186,2002
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42647.127,2003
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43867.578,2004
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44309.405,2005
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46443.056,2006
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,47778.509,2007
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48087.591,2008
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46058.812,2009
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,47933.864,2010
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,51009.635,2011
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,51046.846,2012
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,51092.814,2013
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,51852.203,2014
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,52322.297,2015
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,53171.299,2016
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,54335.963,2017
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55226.694,2018
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55685.012,2019
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,53374.576,2020
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55056.697,2021
+DEU,Germany,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55340.197,2022
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.792,1990
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.806,1991
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.817,1992
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.825,1993
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.831,1994
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.836,1995
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.841,1996
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.847,1997
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.852,1998
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.857,1999
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.863,2000
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.872,2001
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.877,2002
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.883,2003
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.893,2004
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.887,2005
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.891,2006
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.895,2007
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.896,2008
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.897,2009
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.902,2010
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.909,2011
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.910,2012
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.912,2013
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.916,2014
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.916,2015
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.919,2016
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.922,2017
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.925,2018
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.930,2019
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.927,2020
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.929,2021
+DEU,Germany,hdi_f,HDI female,GDI,Gender Development Index,0.932,2022
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.859,1990
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.861,1991
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.864,1992
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.875,1993
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.881,1994
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.885,1995
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.891,1996
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.897,1997
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.903,1998
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.909,1999
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.915,2000
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.920,2001
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.923,2002
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.926,2003
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.933,2004
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.938,2005
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.941,2006
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.944,2007
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.948,2008
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.947,2009
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.950,2010
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.956,2011
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.958,2012
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.958,2013
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.962,2014
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.960,2015
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.959,2016
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.961,2017
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.962,2018
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.967,2019
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.964,2020
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.962,2021
+DEU,Germany,hdi_m,HDI male,GDI,Gender Development Index,0.964,2022
+DEU,Germany,hdi_rank,HDI Rank,HDI,Human Development Index,7,2022
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.528,2010
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.543,2011
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.582,2012
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.758,2013
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.864,2014
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.833,2015
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.997,2016
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.712,2017
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.590,2018
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.663,2019
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.655,2020
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.765,2021
+DEU,Germany,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.765,2022
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.379,2010
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.239,2011
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.484,2012
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.911,2013
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.237,2014
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.948,2015
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.399,2016
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.532,2017
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.515,2018
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.821,2019
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.778,2020
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.274,2021
+DEU,Germany,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.346,2022
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.719,2010
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.769,2011
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.550,2012
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.551,2013
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.488,2014
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.526,2015
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.650,2016
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.442,2017
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.491,2018
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.475,2019
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.399,2020
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.408,2021
+DEU,Germany,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.327,2022
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.359,1990
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.576,1991
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.019,1992
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.096,1993
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.393,1994
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.562,1995
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.792,1996
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.226,1997
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.577,1998
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.806,1999
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.064,2000
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.409,2001
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.483,2002
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.544,2003
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.126,2004
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.262,2005
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.591,2006
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.741,2007
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.826,2008
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.925,2009
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.086,2010
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.36,2011
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.506,2012
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.463,2013
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.915,2014
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.574,2015
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.847,2016
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.944,2017
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.172,2018
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.558,2019
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.147,2020
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.63,2021
+DEU,Germany,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.989,2022
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.419,1990
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.689,1991
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.143,1992
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.215,1993
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.514,1994
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.691,1995
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.862,1996
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.27,1997
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.538,1998
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.745,1999
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.996,2000
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.274,2001
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.281,2002
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.367,2003
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.886,2004
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.966,2005
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.24,2006
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.399,2007
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.392,2008
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.484,2009
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.621,2010
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.833,2011
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.947,2012
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.864,2013
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.325,2014
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.977,2015
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.267,2016
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.289,2017
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.596,2018
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.965,2019
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.645,2020
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.222,2021
+DEU,Germany,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.487,2022
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,71.911,1990
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.096,1991
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.53,1992
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.633,1993
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.946,1994
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.119,1995
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.423,1996
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.88,1997
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.315,1998
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.577,1999
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.859,2000
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.281,2001
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.443,2002
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.514,2003
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.148,2004
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.36,2005
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.753,2006
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.915,2007
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.112,2008
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.238,2009
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.441,2010
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.776,2011
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.974,2012
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.99,2013
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.431,2014
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.131,2015
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.386,2016
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.562,2017
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.717,2018
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.128,2019
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.656,2020
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.081,2021
+DEU,Germany,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.512,2022
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,45.35,1990
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.14,1991
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.87,1992
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.6,1993
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.78,1994
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.68,1995
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.84,1996
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.18,1997
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.41,1998
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.96,1999
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.86,2000
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,42.2,2001
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.36,2002
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.74,2003
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.43,2004
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.1,2005
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.98,2006
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.41,2007
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.52,2008
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.92,2009
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.06,2010
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54,2011
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.03,2012
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.58,2013
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.76,2014
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.71,2015
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.63,2016
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.89,2017
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.94,2018
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.58,2019
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.54,2020
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.33,2021
+DEU,Germany,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.13,2022
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.97,1990
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.86,1991
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.6,1992
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.94,1993
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.4,1994
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.57,1995
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.15,1996
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.85,1997
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.61,1998
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.38,1999
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.66,2000
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.19,2001
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.69,2002
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.37,2003
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.74,2004
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.15,2005
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.32,2006
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.25,2007
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.31,2008
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.19,2009
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.07,2010
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.54,2011
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.44,2012
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.42,2013
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.32,2014
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.87,2015
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.56,2016
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.68,2017
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.78,2018
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.44,2019
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.92,2020
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.77,2021
+DEU,Germany,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.59,2022
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.997,2010
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.952,2011
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.044,2012
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.249,2013
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.431,2014
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.333,2015
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.545,2016
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.415,2017
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.822,2018
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.571,2019
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.806,2020
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.017,2021
+DEU,Germany,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.263,2022
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.852,1990
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.556,1991
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,25.405,1992
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,25.15,1993
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,25.883,1994
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.051,1995
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.183,1996
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.144,1997
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,25.886,1998
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.917,1999
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.204,2000
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.569,2001
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.833,2002
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.681,2003
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.498,2004
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.744,2005
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.651,2006
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.568,2007
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,24.102,2008
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.298,2009
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.828,2010
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.375,2011
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.213,2012
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.396,2013
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.498,2014
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.191,2015
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.201,2016
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.616,2017
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.134,2018
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.263,2019
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.997,2020
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.081,2021
+DEU,Germany,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.864,2022
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.055,1990
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.640,1991
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.514,1992
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.510,1993
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.337,1994
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.321,1995
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.004,1996
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.497,1997
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.311,1998
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.267,1999
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.164,2000
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.168,2001
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.250,2002
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.162,2003
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.871,2004
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.926,2005
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.395,2006
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.493,2007
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.452,2008
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.520,2009
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.162,2010
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.972,2011
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.491,2012
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.350,2013
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.725,2014
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.593,2015
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.008,2016
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.733,2017
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.706,2018
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.450,2019
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.428,2020
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.428,2021
+DEU,Germany,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.428,2022
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.364,1990
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.574,1991
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.784,1992
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.995,1993
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.205,1994
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.416,1995
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.616,1996
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.817,1997
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.018,1998
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.219,1999
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.420,2000
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,12.765,2001
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.110,2002
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.455,2003
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.800,2004
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.704,2005
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.603,2006
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.680,2007
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.756,2008
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.828,2009
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.852,2010
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.931,2011
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,13.978,2012
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.010,2013
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.037,2014
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.082,2015
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.132,2016
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.105,2017
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.077,2018
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.167,2019
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.256,2020
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.256,2021
+DEU,Germany,mys,Mean Years of Schooling (years),HDI,Human Development Index,14.256,2022
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.841,1990
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.017,1991
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.194,1992
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.370,1993
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.546,1994
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.723,1995
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.882,1996
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.042,1997
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.202,1998
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.361,1999
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.521,2000
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.967,2001
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.412,2002
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,12.858,2003
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.303,2004
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.200,2005
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.096,2006
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.187,2007
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.261,2008
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.348,2009
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.383,2010
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.499,2011
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.563,2012
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.621,2013
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.632,2014
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.698,2015
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.767,2016
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.785,2017
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.804,2018
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.897,2019
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.990,2020
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.990,2021
+DEU,Germany,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,13.990,2022
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.148,1990
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.383,1991
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.617,1992
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.852,1993
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.087,1994
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.322,1995
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.576,1996
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.830,1997
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.083,1998
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.337,1999
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.591,2000
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.774,2001
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,13.957,2002
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.141,2003
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.324,2004
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.242,2005
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.146,2006
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.208,2007
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.286,2008
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.339,2009
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.351,2010
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.390,2011
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.419,2012
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.423,2013
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.469,2014
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.489,2015
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.516,2016
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.439,2017
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.362,2018
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.448,2019
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.535,2020
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.535,2021
+DEU,Germany,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,14.535,2022
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1990
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1991
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1992
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1993
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1994
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1995
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1996
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1997
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.506,1998
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.810,1999
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.352,2000
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.476,2001
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.399,2002
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.399,2003
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.819,2004
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.454,2005
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.600,2006
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,30.645,2007
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.131,2008
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.693,2009
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.693,2010
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.366,2011
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,32.366,2012
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.571,2013
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.571,2014
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.857,2015
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.857,2016
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.491,2017
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.491,2018
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.620,2019
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,31.620,2020
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.783,2021
+DEU,Germany,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.820,2022
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1990
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1991
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1992
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1993
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1994
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1995
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1996
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1997
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.494,1998
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.190,1999
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.648,2000
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.524,2001
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.601,2002
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.601,2003
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.181,2004
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.546,2005
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.400,2006
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,69.355,2007
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.869,2008
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.307,2009
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.307,2010
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.634,2011
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,67.634,2012
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.429,2013
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.429,2014
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.143,2015
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.143,2016
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.509,2017
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.509,2018
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.380,2019
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,68.380,2020
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.217,2021
+DEU,Germany,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.180,2022
+DEU,Germany,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,1,2022
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,50.503,1990
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,53.230,1991
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,55.956,1992
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,58.682,1993
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.408,1994
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,64.134,1995
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,66.187,1996
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,68.241,1997
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,70.294,1998
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,72.348,1999
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,74.401,2000
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,80.192,2001
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,85.982,2002
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,91.773,2003
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,97.563,2004
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.507,2005
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.608,2006
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.758,2007
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.385,2008
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.360,2009
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.130,2010
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.367,2011
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.386,2012
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.362,2013
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.526,2014
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.440,2015
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.213,2016
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.167,2017
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,96.121,2018
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.777,2019
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.434,2020
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.434,2021
+DEU,Germany,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,95.434,2022
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,58.516,1990
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.669,1991
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,64.823,1992
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,67.976,1993
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,71.129,1994
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.283,1995
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.286,1996
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,80.289,1997
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.292,1998
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,86.295,1999
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,89.298,2000
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,91.463,2001
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,93.628,2002
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.792,2003
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.957,2004
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.325,2005
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.282,2006
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.435,2007
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.119,2008
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.077,2009
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.943,2010
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.082,2011
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.096,2012
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.999,2013
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.090,2014
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,97.009,2015
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.830,2016
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.691,2017
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.551,2018
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,96.246,2019
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.940,2020
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.940,2021
+DEU,Germany,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,95.940,2022

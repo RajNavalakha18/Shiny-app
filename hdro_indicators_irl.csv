@@ -1,0 +1,896 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.814,1990
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.584,1991
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.457,1992
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.454,1993
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.375,1994
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.338,1995
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.842,1996
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,17.063,1997
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.05,1998
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,20.021,1999
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.615,2000
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.879,2001
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,19.449,2002
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,18.854,2003
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,17.568,2004
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.689,2005
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.387,2006
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.909,2007
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,16.533,2008
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,15.939,2009
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,14.665,2010
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,12.403,2011
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,11.332,2012
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,9.655,2013
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.511,2014
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.924,2015
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.217,2016
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.603,2017
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.37,2018
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.796,2019
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.867,2020
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.941,2021
+IRL,Ireland,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.872,2022
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.452,1990
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.608,1991
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.493,1992
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.509,1993
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.788,1994
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.016,1995
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.389,1996
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.660,1997
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.066,1998
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.409,1999
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.006,2000
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.433,2001
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.833,2002
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.540,2003
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.450,2004
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.685,2005
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.241,2006
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.933,2007
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.638,2008
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.374,2009
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.237,2010
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.374,2011
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.375,2012
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.124,2013
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.973,2014
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.298,2015
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.561,2016
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.189,2017
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.070,2018
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.624,2019
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.101,2020
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.530,2021
+IRL,Ireland,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.530,2022
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.559,2010
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.589,2011
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.673,2012
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.452,2013
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,8.072,2014
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.492,2015
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.472,2016
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.589,2017
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,7.074,2018
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,6.744,2019
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,6.568,2020
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,6.191,2021
+IRL,Ireland,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,6.566,2022
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.997,1990
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.084,1991
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.003,1992
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.386,1993
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.607,1994
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.977,1995
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.585,1996
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.695,1997
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.293,1998
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,21.641,1999
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,21.504,2000
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.235,2001
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.157,2002
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.033,2003
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.311,2004
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,25.839,2005
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,29.065,2006
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,25.442,2007
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,21.215,2008
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.667,2009
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.749,2010
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,13.907,2011
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.679,2012
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.623,2013
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.854,2014
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,12.987,2015
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.716,2016
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.525,2017
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.819,2018
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.471,2019
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.460,2020
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.482,2021
+IRL,Ireland,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,14.316,2022
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.679,1990
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.741,1991
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.938,1992
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.409,1993
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.765,1994
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.861,1995
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.907,1996
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.989,1997
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.495,1998
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.325,1999
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.430,2000
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.563,2001
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.806,2002
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.982,2003
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.240,2004
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.239,2005
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.971,2006
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.014,2007
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.262,2008
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.037,2009
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.463,2010
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.938,2011
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,17.956,2012
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.070,2013
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.183,2014
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.709,2015
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.793,2016
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.705,2017
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.756,2018
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.945,2019
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,18.840,2020
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.126,2021
+IRL,Ireland,eys,Expected Years of Schooling (years),HDI,Human Development Index,19.126,2022
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.822,1990
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.912,1991
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.126,1992
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.518,1993
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.884,1994
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.043,1995
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.181,1996
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,14.330,1997
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.882,1998
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.764,1999
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.939,2000
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.106,2001
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.396,2002
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.602,2003
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.439,2004
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.495,2005
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.139,2006
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.163,2007
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.400,2008
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.182,2009
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.583,2010
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.943,2011
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.946,2012
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.182,2013
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.419,2014
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.825,2015
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.874,2016
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,18.791,2017
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,20.231,2018
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.237,2019
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.229,2020
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.476,2021
+IRL,Ireland,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,19.476,2022
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.540,1990
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.577,1991
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.758,1992
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.307,1993
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.650,1994
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.688,1995
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.646,1996
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.663,1997
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.122,1998
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.905,1999
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.943,2000
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.044,2001
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.238,2002
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.383,2003
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.053,2004
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.999,2005
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.806,2006
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.869,2007
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.128,2008
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.898,2009
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.354,2010
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.929,2011
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.970,2012
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.963,2013
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,17.956,2014
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.603,2015
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.718,2016
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.624,2017
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,19.261,2018
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.646,2019
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.442,2020
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.772,2021
+IRL,Ireland,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,18.772,2022
+IRL,Ireland,gdi_group,GDI Group,GDI,Gender Development Index,1,2022
+IRL,Ireland,gii_rank,GII Rank,GII,Gender Inequality Index,20,2022
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,13422.880,1990
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,13943.823,1991
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,14724.102,1992
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,15639.069,1993
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,16879.905,1994
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,18467.827,1995
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,20206.677,1996
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,22279.483,1997
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,24234.656,1998
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26341.745,1999
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,28671.521,2000
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,29232.457,2001
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30042.294,2002
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31995.035,2003
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30719.677,2004
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,33402.023,2005
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34478.204,2006
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34340.805,2007
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,33634.626,2008
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31169.050,2009
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32812.899,2010
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32100.168,2011
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,32669.618,2012
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,33548.791,2013
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,35663.904,2014
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,39873.575,2015
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,43613.615,2016
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,47150.382,2017
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,48449.516,2018
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,51851.533,2019
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,52444.731,2020
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,60835.540,2021
+IRL,Ireland,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,66876.421,2022
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,35930.135,1990
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,36275.090,1991
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,36161.248,1992
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,36587.397,1993
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,38404.066,1994
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,41426.221,1995
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,43956.651,1996
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,47239.072,1997
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,50069.828,1998
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,52836.543,1999
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56655.617,2000
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,57346.052,2001
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58532.869,2002
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,60274.832,2003
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,66594.309,2004
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,67435.487,2005
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,69739.122,2006
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,70952.052,2007
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,65048.257,2008
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58508.261,2009
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58549.367,2010
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,56962.677,2011
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55270.913,2012
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,58593.364,2013
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,63958.133,2014
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,70526.671,2015
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,74357.667,2016
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,77154.472,2017
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,81799.072,2018
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,83749.655,2019
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,86082.233,2020
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,97397.260,2021
+IRL,Ireland,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,108423.611,2022
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,24605.850,1990
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,25044.101,1991
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,25382.107,1992
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,26052.752,1993
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,27572.421,1994
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,29864.699,1995
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,31994.088,1996
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,34667.178,1997
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,37059.742,1998
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39498.841,1999
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,42575.656,2000
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43202.748,2001
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44194.066,2002
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,46045.102,2003
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48571.806,2004
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,50383.231,2005
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,52113.070,2006
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,52648.843,2007
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,49307.602,2008
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44773.575,2009
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,45595.162,2010
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,44430.020,2011
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43866.517,2012
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,45949.938,2013
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,49662.600,2014
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55036.926,2015
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,58828.868,2016
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,62004.387,2017
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,64966.045,2018
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67651.590,2019
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,69108.812,2020
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,78952.571,2021
+IRL,Ireland,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,87467.514,2022
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.720,1990
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.727,1991
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.737,1992
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.747,1993
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.760,1994
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.768,1995
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.779,1996
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.789,1997
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.824,1998
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.829,1999
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.840,2000
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.848,2001
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.858,2002
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.867,2003
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.869,2004
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.878,2005
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.881,2006
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.885,2007
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.888,2008
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.884,2009
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.893,2010
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.890,2011
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.892,2012
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.895,2013
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.901,2014
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.907,2015
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.913,2016
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.919,2017
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.923,2018
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.928,2019
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.930,2020
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.935,2021
+IRL,Ireland,hdi_f,HDI female,GDI,Gender Development Index,0.943,2022
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.756,1990
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.761,1991
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.768,1992
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.778,1993
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.790,1994
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.796,1995
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.803,1996
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.811,1997
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.844,1998
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.847,1999
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.857,2000
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.864,2001
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.873,2002
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.882,2003
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.899,2004
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.905,2005
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.908,2006
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.915,2007
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.916,2008
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.911,2009
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.919,2010
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.917,2011
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.918,2012
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.923,2013
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.930,2014
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.937,2015
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.941,2016
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.944,2017
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.946,2018
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.948,2019
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.950,2020
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.948,2021
+IRL,Ireland,hdi_m,HDI male,GDI,Gender Development Index,0.951,2022
+IRL,Ireland,hdi_rank,HDI Rank,HDI,Human Development Index,7,2022
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.896,2010
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.416,2011
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,5.546,2012
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,4.919,2013
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.363,2014
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.294,2015
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.422,2016
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.285,2017
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.205,2018
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,3.365,2019
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.678,2020
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.855,2021
+IRL,Ireland,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,2.936,2022
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.929,2010
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.577,2011
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.852,2012
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.747,2013
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,17.291,2014
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.673,2015
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,15.735,2016
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,16.393,2017
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.978,2018
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,13.883,2019
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,14.259,2020
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,12.892,2021
+IRL,Ireland,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,13.962,2022
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.851,2010
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.775,2011
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.622,2012
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.690,2013
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.563,2014
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.508,2015
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.260,2016
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.089,2017
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,3.038,2018
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.984,2019
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.767,2020
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.826,2021
+IRL,Ireland,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.799,2022
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.842,1990
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.031,1991
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.428,1992
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.294,1993
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.801,1994
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.478,1995
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.83,1996
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.98,1997
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.189,1998
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.094,1999
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.542,2000
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.109,2001
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.6,2002
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.111,2003
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.513,2004
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.916,2005
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.152,2006
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.555,2007
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.763,2008
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.046,2009
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.523,2010
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.633,2011
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.752,2012
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.968,2013
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.307,2014
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.416,2015
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.55,2016
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.917,2017
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.086,2018
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.259,2019
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.47,2020
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.998,2021
+IRL,Ireland,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.716,2022
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.72,1990
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.902,1991
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.288,1992
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.161,1993
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.659,1994
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.313,1995
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.702,1996
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.671,1997
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.081,1998
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.846,1999
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.184,2000
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.77,2001
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.275,2002
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.561,2003
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.995,2004
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.181,2005
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.519,2006
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.839,2007
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.04,2008
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.412,2009
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.748,2010
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.782,2011
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.873,2012
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.982,2013
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.319,2014
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.287,2015
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.429,2016
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.719,2017
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.878,2018
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.04,2019
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.131,2020
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.767,2021
+IRL,Ireland,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.412,2022
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.109,1990
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.285,1991
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.679,1992
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.56,1993
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.052,1994
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.762,1995
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.062,1996
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.358,1997
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.396,1998
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.425,1999
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.942,2000
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.488,2001
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.954,2002
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.638,2003
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.013,2004
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.599,2005
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.764,2006
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.238,2007
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.467,2008
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.659,2009
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.251,2010
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.442,2011
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.594,2012
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.92,2013
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.26,2014
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.519,2015
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.648,2016
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.101,2017
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.288,2018
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.476,2019
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.81,2020
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.248,2021
+IRL,Ireland,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.017,2022
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,35.38,1990
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,36.05,1991
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,36.82,1992
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,38.56,1993
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,39.5,1994
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,39.92,1995
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,41.54,1996
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,42.67,1997
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,43.93,1998
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,45.91,1999
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.15,2000
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.56,2001
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,47.04,2002
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.14,2003
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.43,2004
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.82,2005
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.03,2006
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.97,2007
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.83,2008
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.11,2009
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.25,2010
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.96,2011
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.77,2012
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.27,2013
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.93,2014
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.85,2015
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.59,2016
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.65,2017
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.04,2018
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.25,2019
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.1,2020
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.86,2021
+IRL,Ireland,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.4,2022
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.66,1990
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.62,1991
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.72,1992
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.45,1993
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.83,1994
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.38,1995
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.5,1996
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.52,1997
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.4,1998
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.38,1999
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.18,2000
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.13,2001
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.87,2002
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.56,2003
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.99,2004
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.33,2005
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.43,2006
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.39,2007
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.22,2008
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.26,2009
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.17,2010
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.19,2011
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.76,2012
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.9,2013
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.84,2014
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.06,2015
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.02,2016
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.54,2017
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.51,2018
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.65,2019
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,67.37,2020
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.95,2021
+IRL,Ireland,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.51,2022
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.700,2010
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.830,2011
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.931,2012
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.562,2013
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,8.388,2014
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.684,2015
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.643,2016
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.816,2017
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,7.249,2018
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.900,2019
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.772,2020
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.237,2021
+IRL,Ireland,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,6.737,2022
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.145,1990
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.198,1991
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.807,1992
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.482,1993
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.277,1994
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,18.235,1995
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,19.341,1996
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.844,1997
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,22.634,1998
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.903,1999
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,38.500,2000
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.804,2001
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,43.439,2002
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,43.785,2003
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,44.454,2004
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,51.385,2005
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,61.137,2006
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,51.461,2007
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,40.21,2008
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.561,2009
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,27.504,2010
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,23.771,2011
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.217,2012
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,20.572,2013
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.422,2014
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,21.212,2015
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,28.478,2016
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,28.620,2017
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,27.042,2018
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,37.983,2019
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.245,2020
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.939,2021
+IRL,Ireland,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,26.347,2022
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.840,1990
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.443,1991
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.857,1992
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.120,1993
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.305,1994
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.955,1995
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.627,1996
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.468,1997
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.616,1998
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.276,1999
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.450,2000
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,9.319,2001
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.454,2002
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.422,2003
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.983,2004
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.610,2005
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.910,2006
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.028,2007
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.587,2008
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.142,2009
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.549,2010
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.418,2011
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.040,2012
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.457,2013
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.273,2014
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.485,2015
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.343,2016
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.583,2017
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.430,2018
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,5.523,2019
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.984,2020
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.984,2021
+IRL,Ireland,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,4.984,2022
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.996,1990
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.244,1991
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.500,1992
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.757,1993
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.013,1994
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.270,1995
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.526,1996
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.783,1997
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.039,1998
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.296,1999
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.552,2000
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.809,2001
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.065,2002
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.322,2003
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.578,2004
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.835,2005
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.091,2006
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.348,2007
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.422,2008
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.495,2009
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.569,2010
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.000,2011
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.072,2012
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.145,2013
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.217,2014
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.289,2015
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.362,2016
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.434,2017
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.508,2018
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.582,2019
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.657,2020
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.657,2021
+IRL,Ireland,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.657,2022
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.097,1990
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.349,1991
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.611,1992
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.872,1993
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.134,1994
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.395,1995
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.657,1996
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.919,1997
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.180,1998
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.442,1999
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.703,2000
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.965,2001
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.227,2002
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.488,2003
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.750,2004
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.011,2005
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.273,2006
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.534,2007
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.589,2008
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.644,2009
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.699,2010
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.172,2011
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.248,2012
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.324,2013
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.400,2014
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.477,2015
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.553,2016
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.629,2017
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.706,2018
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.785,2019
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.863,2020
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.863,2021
+IRL,Ireland,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.863,2022
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.889,1990
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.132,1991
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.384,1992
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.636,1993
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.888,1994
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.140,1995
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.392,1996
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.644,1997
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.895,1998
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.147,1999
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.399,2000
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.651,2001
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.903,2002
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.155,2003
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.407,2004
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.659,2005
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.910,2006
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.162,2007
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.253,2008
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.343,2009
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.434,2010
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.820,2011
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.888,2012
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.956,2013
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.024,2014
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.092,2015
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.160,2016
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.228,2017
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.298,2018
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.367,2019
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.438,2020
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.438,2021
+IRL,Ireland,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.438,2022
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1990
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1991
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1992
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1993
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1994
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1995
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1996
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1997
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1998
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,1999
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,2000
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,13.717,2001
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.159,2002
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.159,2003
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.159,2004
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.159,2005
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.159,2006
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.487,2007
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.487,2008
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,16.071,2009
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,16.071,2010
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.027,2011
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.027,2012
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.912,2013
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.469,2014
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,19.912,2015
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.312,2016
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.312,2017
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.312,2018
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.312,2019
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.273,2020
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.273,2021
+IRL,Ireland,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,27.397,2022
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1990
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1991
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1992
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1993
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1994
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1995
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1996
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1997
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1998
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,1999
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,2000
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86.283,2001
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.841,2002
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.841,2003
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.841,2004
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.841,2005
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.841,2006
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.513,2007
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.513,2008
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,83.929,2009
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,83.929,2010
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.973,2011
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.973,2012
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.088,2013
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.531,2014
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,80.088,2015
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.688,2016
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.688,2017
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.688,2018
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.688,2019
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.727,2020
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.727,2021
+IRL,Ireland,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,72.603,2022
+IRL,Ireland,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,-4,2022
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,58.476,1990
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,60.226,1991
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,62.826,1992
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,64.293,1993
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,65.760,1994
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,67.227,1995
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,68.433,1996
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,69.639,1997
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,70.845,1998
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,72.051,1999
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,73.356,2000
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,74.913,2001
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.569,2002
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.225,2003
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,79.881,2004
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.537,2005
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.774,2006
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.718,2007
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.674,2008
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.631,2009
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,81.588,2010
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,84.540,2011
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,84.987,2012
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,85.433,2013
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,85.880,2014
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,86.326,2015
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,86.772,2016
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,87.219,2017
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,87.672,2018
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.128,2019
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.586,2020
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.586,2021
+IRL,Ireland,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,88.586,2022
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,60.155,1990
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.486,1991
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.966,1992
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,63.580,1993
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,65.194,1994
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,66.808,1995
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,68.081,1996
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,69.354,1997
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,70.626,1998
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,71.899,1999
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.172,2000
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.760,2001
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.349,2002
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.937,2003
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.526,2004
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.114,2005
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.574,2006
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,82.034,2007
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.532,2008
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.029,2009
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,80.526,2010
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,82.352,2011
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,82.801,2012
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.249,2013
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.698,2014
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,84.146,2015
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,84.594,2016
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.043,2017
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.499,2018
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.957,2019
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,86.417,2020
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,86.417,2021
+IRL,Ireland,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,86.417,2022
